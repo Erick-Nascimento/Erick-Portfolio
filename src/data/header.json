@@ -1,0 +1,40 @@
+{
+  "header": {
+    "logo": "./src/assets/logo.png",
+    "navLinks": [
+      {
+        "name": "home",
+        "href": "/"
+      },
+      {
+        "name": "sobre mim",
+        "href": "/about"
+      },
+      {
+        "name": "habilidades",
+        "href": "/skills"
+      },
+      {
+        "name": "projetos",
+        "href": "/projects"
+      },
+      {
+        "name": "contato",
+        "href": "/contact"
+      }
+    ],
+    "toogleMode": {
+      "icon": "./src/assets/moon.png"
+    },
+    "socialMedias": [
+      {
+        "logo": "./src/assets/linkedin.png",
+        "link": "https://www.linkedin.com/in/ericksnascimento/"
+      },
+      {
+        "logo": "./src/assets/github.png",
+        "link": "https://github.com/Erick-Nascimento"
+      }
+    ]
+  }
+}
