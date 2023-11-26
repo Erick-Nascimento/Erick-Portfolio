@@ -14,14 +14,14 @@
   "skills": [
     {
       "altText": "Html5",
-      "icon": "/assets/languageLogos/htmlLogo.png",
+      "icon": "assets/languageLogos/htmlLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#ef6525"
     },
     {
       "altText": "CSS",
-      "icon": "/src/assets/languageLogos/cssLogo.png",
+      "icon": "src/assets/languageLogos/cssLogo.png",
       "background": "#242424",
       "width": "45px",
       "border": "#0089ca"
