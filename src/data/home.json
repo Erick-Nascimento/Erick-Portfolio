@@ -28,7 +28,7 @@
     },
     {
       "altText": "Javascript",
-      "icon": "./src/assets/languageLogos/javaScriptLogo.png",
+      "icon": ".././src/assets/languageLogos/javaScriptLogo.png",
       "background": "#242424",
       "width": "80px",
       "border": "#ffd83a"
