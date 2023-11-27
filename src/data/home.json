@@ -14,21 +14,21 @@
   "skills": [
     {
       "altText": "Html5",
-      "icon": "assets/languageLogos/htmlLogo.png",
+      "icon": "../src/assets/languageLogos/htmlLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#ef6525"
     },
     {
       "altText": "CSS",
-      "icon": "/src/assets/languageLogos/cssLogo.png",
+      "icon": "src/assets/languageLogos/cssLogo.png",
       "background": "#242424",
       "width": "45px",
       "border": "#0089ca"
     },
     {
       "altText": "Javascript",
-      "icon": ".././src/assets/languageLogos/javaScriptLogo.png",
+      "icon": "./src/assets/languageLogos/javaScriptLogo.png",
       "background": "#242424",
       "width": "80px",
       "border": "#ffd83a"
