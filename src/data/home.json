@@ -21,7 +21,7 @@
     },
     {
       "altText": "CSS",
-      "icon": "src/assets/languageLogos/cssLogo.png",
+      "icon": "/src/assets/languageLogos/cssLogo.png",
       "background": "#242424",
       "width": "45px",
       "border": "#0089ca"
