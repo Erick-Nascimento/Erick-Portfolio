@@ -2,67 +2,67 @@
   "hero": {
     "title": "Habilidades",
     "description": "Na minha jornada aprendi que as soft skills são um grande diferencial, portanto busco desenvolvê-las tanto quanto as minhas hard-skills. Aqui listo algumas das minhas habilidades e conto um pouco de como a desenvolvi.",
-    "image": "./src/assets/skills-image.png"
+    "image": "/assets/skills-image.png"
   },
   "skills": {
     "hardSkills": [
       {
         "title": "Html 5",
-        "image": "./src/assets/skills/html-skill.png",
+        "image": "/assets/skills/html-skill.png",
         "background": "#FC490B",
         "description": "Tive o meu primeiro contato com o desenvolvimento Front-end através do HTML durante o terceiro período da faculdade de Ciência da Computação. Me apaixonei por fazer as coisas e ver o resultado imediatamente na tela. Foi ali que decidi me aprofundar no desenvolvimento web."
       },
       {
         "title": "CSS",
-        "image": "./src/assets/skills/css.png",
+        "image": "/assets/skills/css.png",
         "background": "#379ad6",
         "description": "O CSS foi o complemento perfeito para conseguir começar a desenvolver páginas HTML mais bonitas. Me lembro bem quando aprendi o Flexbox e fiquei super feliz por conseguir desenvolver qualquer ideia usando HTMl."
       },
       {
         "title": "Javascript",
-        "image": "./src/assets/skills/javascript.png",
+        "image": "/assets/skills/javascript.png",
         "background": "#f8dc3f",
         "description": "Com o Javascript não foi diferente, foi paixão a primeira vista. Criando páginas simples e bonitas o JS me deu o poder de agora colocar interações nessas páginas."
       },
       {
         "title": "SCSS",
-        "image": "./src/assets/skills/sass.png",
+        "image": "/assets/skills/sass.png",
         "background": "#cd669a",
         "description": "Aprender SCSS me deu mais algumas possibilidades em que o CSS puro era limitado. Foi muito bom aprender alguns conceitos novos e colocar em prática desenvolvendo alguma ideia nova."
       },
       {
         "title": "React",
-        "image": "./src/assets/languageLogos/reactNativeLogo.png",
+        "image": "/assets/languageLogos/reactNativeLogo.png",
         "background": "#61dbfb",
         "description": "O React mudou a minha forma de enxergar as coisas. Eu conseguia me virar muito bem fazendo as coisas com HTML, CSS e JS e sempre quis aprender o React que tanto ouvia falar mas não tinha tempo, até que decidi me organizar e começar um curso pelo Youtube. Foi incrível e de lá pra cá me desenvolvi bem com o React."
       },
       {
         "title": "Styled Components",
-        "image": "./src/assets/languageLogos/styledComponentsLogo.png",
+        "image": "/assets/languageLogos/styledComponentsLogo.png",
         "background": "#FC490B",
         "description": "Styled Components era uma outra tecnologia que ouvia falar mas não parava para aprender e ver como funcionava. Até que desenvolvendo um projeto com uma amiga ela começou a utilizar e despertou o meu interesse para a linguagem. Comecei a utilizar mas depois do Tailwind deixei um pouco de lado."
       },
       {
         "title": "React Native",
-        "image": "./src/assets/languageLogos/reactNativeLogo.png",
+        "image": "/assets/languageLogos/reactNativeLogo.png",
         "background": "#61dbfb",
         "description": "Com a paixão pelo React crescendo, me interessei pelo React Native já que hoje utilizamos o celular a todo instante. Então queria desenvolver minhas ideias e utilizar no meu dia-a-dia."
       },
       {
         "title": "Figma",
-        "image": "./src/assets/languageLogos/figmaLogo.png",
+        "image": "/assets/languageLogos/figmaLogo.png",
         "background": "#02d084",
         "description": "O Figma me deu o poder de tirar ideias da minha cabeça e desenhá-las. Me interessei muito pela ferramenta e hoje sempre que tenho alguma ideia nova, desenovlvo no figma."
       },
       {
         "title": "Git",
-        "image": "./src/assets/languageLogos/githubLogo.png",
+        "image": "/assets/languageLogos/githubLogo.png",
         "background": "#5c6bc0",
         "description": "Antes do git eu era exatamente o tipo de cara que desenvolvia tudo em pastas no computador, mas quando comecei a usar o git na Simbiose não larguei mais."
       },
       {
         "title": "Tailwind",
-        "image": "./src/assets/languageLogos/tailwindLogo.png",
+        "image": "/assets/languageLogos/tailwindLogo.png",
         "background": "#35bef8",
         "description": "O Tailwind também foi aprensetado a mim através de um colega de profissão. Confesso que no início tive um certo preconceito por deixar o código meio confuso e preferi ainda utilizar o Styled Components, mas depois de estudar um pouco mais e praticar entendi os benefícios do Tailwind."
       }
@@ -70,31 +70,31 @@
     "softSkills": [
       {
         "title": "Comunicação",
-        "image": "./src/assets/skills/comunicacao.png",
+        "image": "/assets/skills/comunicacao.png",
         "background": "#379ad6",
         "description": "Nem sempre fui comunicativo, na infância e adolescência eu era tímido e introvertido, mas tentando mudar isso eu comecei a praticar técnicas de oratória e me desenvolvi bastante."
       },
       {
         "title": "Liderança",
-        "image": "./src/assets/skills/lideranca.png",
+        "image": "/assets/skills/lideranca.png",
         "background": "#f8dc3f",
         "description": "Essa habilidade sempre fez parte de mim. Sempre fui a criança que coordenava e ajudava as outras pessoas durante alguma brincadeira. No mundo coorporativo aprendi que essa competência era extremamente importante e também podia ser melhorada."
       },
       {
         "title": "Auto-gestão",
-        "image": "./src/assets/skills/auto-gestao.png",
+        "image": "/assets/skills/auto-gestao.png",
         "background": "#FC490B",
         "description": "Na Simbiose utilizamos a Auto-gestão como modelo de gestão, então aprendi muito sobre mim, sobre entender meu funcionamento, gerir meu tempo e minhas demandas."
       },
       {
         "title": "Gestão de tempo",
-        "image": "./src/assets/skills/gestao-de-tempo.png",
+        "image": "/assets/skills/gestao-de-tempo.png",
         "background": "#cd669a",
         "description": "Com a quantidade de demandas que temos no dia-a-dia (principalmente trabalhando como dev) foi muito importante aprender a gerir meu tempo, me organizar e priorizar as minhas demandas."
       },
       {
         "title": "Gestão de conflitos",
-        "image": "./src/assets/skills/gestao-de-conflitos.png",
+        "image": "/assets/skills/gestao-de-conflitos.png",
         "background": "#02d084",
         "description": "Atuando como Elo Externo, uma espécie de gestor de um círculo no O2, essa foi uma habilidade que tive que aprender a desenvolver pois é normal que haja divergências de ideias e opiniões quando estamos em grupo."
       }
@@ -102,19 +102,19 @@
   },
   "testimonials": [
     {
-      "photo": "./src/assets/valdeni_photo.jpg",
+      "photo": "/assets/valdeni_photo.jpg",
       "name": "Valdeni Delgado",
       "role": "Desenvolvedor",
       "text": "Erick é gente boa"
     },
     {
-      "photo": "./src/assets/marina_photo.jpg",
+      "photo": "/assets/marina_photo.jpg",
       "name": "Marina Taveira",
       "role": "Piscicóloga",
       "text": "Erick é incrível"
     },
     {
-      "photo": "./src/assets/marina_photo.jpg",
+      "photo": "/assets/marina_photo.jpg",
       "name": "Cláudia Fornari",
       "role": "Não sei",
       "text": "Erick é chato"

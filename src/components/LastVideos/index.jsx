@@ -1,8 +1,8 @@
 import { LastVideosSection } from "./style";
 import VideoCard from "./VideoCard/index";
-import VideoCardImg from "../../assets/videoCard.png";
-import ThumbnailLowdefy from "../../assets/Thumbnail_lowdefy.png";
-import ThumbnailHTML from "../../assets/Thumbnail_html.png";
+import VideoCardImg from "/assets/videoCard.png";
+import ThumbnailLowdefy from "/assets/Thumbnail_lowdefy.png";
+import ThumbnailHTML from "/assets/Thumbnail_html.png";
 import data from "../../data/home.json";
 
 function LastVideos() {

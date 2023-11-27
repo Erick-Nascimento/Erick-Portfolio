@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Sobre mim",
-    "image": "./src/assets/me.png",
+    "image": "/assets/me.png",
     "text": "Meu nome é Erick Nascimento, tenho 30 anos, sou casado e atualmente moro em Magé no Rio de Janeiro. Comecei a trabalhar antes mesmo dos 18 anos de idade em uma padaria e no meu horário livre consertava computadores para ajudar minha mãe com o dinheiro que ganhava. Depois da padaria trabalhei como vendedor, atendente de telemarketing, assistente administrativo e analista de infraestrutura. Enquanto trabalhava cursei Ciência da Computação na Unisuam e no 4 período conheci o HTML. De lá pra cá busco me especializar a cada dia na área do front-end e também descobri que amo ensinar, engajar e impulsionar pessoas. Durante a pandemia conheci a Simbiose e aqui me desenvolvi tanto em hard-skills quanto soft skills, me conhecendo, aprendendo a me comunicar melhor, a ser uma pessoa melhor, a ter uma visão mais ampla de negócios, o que na minha visão me tornaram um excelente desenvolvedor."
   },
   "infosAboutMe": {
@@ -20,35 +20,35 @@
   },
   "timeline": [
     {
-      "icon": "./src/assets/pedagio.png",
+      "icon": "/assets/pedagio.png",
       "color": "#5c9d3e",
       "alt": "icone pedagio",
       "order": 0,
       "direction": "down"
     },
     {
-      "icon": "./src/assets/headphones.png",
+      "icon": "/assets/headphones.png",
       "color": "#F0BE5C",
       "alt": "icone telemarketing",
       "order": 1,
       "direction": "top"
     },
     {
-      "icon": "./src/assets/bus.png",
+      "icon": "/assets/bus.png",
       "color": "#DB4D4D",
       "alt": "icone onibus",
       "order": 2,
       "direction": "down"
     },
     {
-      "icon": "./src/assets/infra.png",
+      "icon": "/assets/infra.png",
       "color": "#2F62C5",
       "alt": "icone infra",
       "order": 3,
       "direction": "top"
     },
     {
-      "icon": "./src/assets/developer.png",
+      "icon": "/assets/developer.png",
       "color": "#C52F77",
       "alt": "icone simbiose",
       "order": 4,
@@ -58,40 +58,40 @@
   "jobs": [
     {
       "enterprise": "Via Fácil",
-      "icon": "./src/assets/pedagio.png",
-      "photo": "./src/assets/via-facil.png",
+      "icon": "/assets/pedagio.png",
+      "photo": "/assets/via-facil.png",
       "role": "Vendedor",
       "period": "2011 - 2012",
       "text": "Este foi meu primeiro emprego. Minha função era vender tags de passagem automática na praça de pedágio. Fiquei na Via Fácil durante 9 meses pois a loja em que trabalhava perdeu o alvará de funcionamento e tiveram que desligar várias pessoas. Aqui tive meu primeiro contato vendas e sobre trabalho em equipe."
     },
     {
       "enterprise": "PC Service",
-      "icon": "./src/assets/headphones.png",
-      "photo": "./src/assets/telemarketing.jpg",
+      "icon": "/assets/headphones.png",
+      "photo": "/assets/telemarketing.jpg",
       "role": "Atendente",
       "period": "2012 - 2014",
       "text": "Com a saída da Via Fácil consegui um emprego para trabalhar no telemarketing. Trabalhei atendendo várias empresas de ônibus do Rio de Janeiro para informações e reclamações. Nesta empresa aprendi muito sobre o atendimento ao cliente e resolução de problemas. Me desenvolvi muito e evolui dentro da empresa chegando a Backup e Backoffice posteriormente, que eram cargos de ajuda na operação na ausência de um supervisor."
     },
     {
       "enterprise": "União de Transporte Interestadual de Luxo S/A - UTIL",
-      "icon": "./src/assets/bus.png",
-      "photo": "./src/assets/assistente-administrativo.jpg",
+      "icon": "/assets/bus.png",
+      "photo": "/assets/assistente-administrativo.jpg",
       "role": "Assistente Administrativo",
       "period": "2014 - 2019",
       "text": "A UTIL era uma das clientes que atendiamos no telemarketing, e com o meu bom desempenho fui convidado a trabalhar no setor de atendimento ao cliente próprio da empresa. Na UTIL fiquei durante 5 anos e tive muitos aprendizados. Me desenvolvi muito com trabalhos administrativos e com o atendimento ao público. Depois de alguns anos no setor de atendimento ao cliente também fui convidado para trabalhar no setor de Pricing da empresa e fui desligado devido a pandemia com mais 50 funcionários."
     },
     {
       "enterprise": "Stefanini",
-      "icon": "./src/assets/infra.png",
-      "photo": "./src/assets/analista-de-infraestrutura.jpg",
+      "icon": "/assets/infra.png",
+      "photo": "/assets/analista-de-infraestrutura.jpg",
       "role": "Analista de Infraestrutura",
       "period": "2019 - 2020",
       "text": "Após a pandemia eu tive a oportunidade de trabalhar na Stefanini como Analista de Infraestrutura atendendo a Petrobrás. Nesta época eu era recém formado na faculdade e desenvolvi um sistema para ajudar no dia-a-dia do trabalho. Esse sistema seria implementado em toda a Petrobrás porém saí da empresa antes do término do sistema pois fui convidado para trabalhar na minha área de formação e em home office. Vale ressaltar que todos os trabalhos anteriores eram longes da minha casa e eu gastava cerca de 4 horas diariamente com o trânsito."
     },
     {
       "enterprise": "Simbiose",
-      "icon": "./src/assets/developer.png",
-      "photo": "./src/assets/desenvolvedor-de-software.jpg",
+      "icon": "/assets/developer.png",
+      "photo": "/assets/desenvolvedor-de-software.jpg",
       "role": "Desenvolvedor de Software",
       "period": "2022 - now",
       "text": "E assim cheguei na Simbiose, em 2022 e estou aqui até o momento atuando como desenvolvedor. Continuo meus estudos em programação e também aprendendo muito sobre gestão de pessoas e negócios em si."

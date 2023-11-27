@@ -1,9 +1,9 @@
 import { Card } from "./style";
-import ReactIcon from "../../../assets/react-icon.png";
+import ReactIcon from "/assets/react-icon.png";
 import { useRef, useEffect, useState } from "react";
-import GithubIcon from "../../../assets/github.png";
-import FigmaIcon from "../../../assets/figma.png";
-import ExternalLinkIcon from "../../../assets/white-external-link.png";
+import GithubIcon from "/assets/github.png";
+import FigmaIcon from "/assets/figma.png";
+import ExternalLinkIcon from "/assets/white-external-link.png";
 import { Link } from "react-router-dom";
 import { Item } from "../../Pagination/PaginationItem/style";
 

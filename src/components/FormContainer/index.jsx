@@ -1,10 +1,10 @@
 import { FormContainerStyled } from "./style";
-import LinkedinIcon from "../../assets/linkedin.png";
-import TelegramIcon from "../../assets/telegram.png";
-import FacebookIcon from "../../assets/facebook.png";
-import InstagramIcon from "../../assets/instagram.png";
-import InstagramIcon2 from "../../assets/instagram-icon.png";
-import WhatsappIcon from "../../assets/whatsapp-icon.png";
+import LinkedinIcon from "/assets/linkedin.png";
+import TelegramIcon from "/assets/telegram.png";
+import FacebookIcon from "/assets/facebook.png";
+import InstagramIcon from "/assets/instagram.png";
+import InstagramIcon2 from "/assets/instagram-icon.png";
+import WhatsappIcon from "/assets/whatsapp-icon.png";
 import Form from "./Form";
 
 function FormContainer() {

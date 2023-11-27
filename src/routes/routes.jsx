@@ -5,7 +5,7 @@ import About from "../pages/about/about";
 import Skills from "../pages/skills/skills";
 import Projects from "../pages/projects/projects";
 import Header from "../components/Header/header";
-import "../assets/reset.css";
+import "../reset.css";
 import Footer from "../components/Footer";
 
 function MyRoutes() {

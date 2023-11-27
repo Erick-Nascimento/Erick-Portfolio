@@ -1,6 +1,6 @@
 import { TestimonialCard } from "./style";
-import LeftArrow from "../../assets/left-arrow.png";
-import RightArrow from "../../assets/right-arrow.png";
+import LeftArrow from "/assets/left-arrow.png";
+import RightArrow from "/assets/right-arrow.png";
 import { useContext } from "react";
 import { TestimonialsContext } from "../../contexts/testimonialsContext";
 import data from "../../data/skills.json";

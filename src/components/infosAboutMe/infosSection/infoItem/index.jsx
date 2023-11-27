@@ -1,5 +1,5 @@
 import { StyledItem } from "./style";
-import CheckIcon from "../../../../assets/check.png";
+import CheckIcon from "/assets/check.png";
 
 function InfoItem({ text }) {
   return (

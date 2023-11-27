@@ -1,7 +1,7 @@
 import { MyInfos } from "./style";
 import InfoSection from "./infosSection";
-import Lamp from "../../assets/lamp.png";
-import Hat from "../../assets/hat.png";
+import Lamp from "/assets/lamp.png";
+import Hat from "/assets/hat.png";
 import data from "../../data/about.json";
 
 function InfosAboutMe() {

@@ -1,7 +1,7 @@
 import { PrevJobsContainer } from "./style";
-import RightArrow from "../../assets/right-arrow.png";
-import LeftArrow from "../../assets/left-arrow.png";
-import PedagioPhoto from "../../assets/via-facil.png";
+import RightArrow from "/assets/right-arrow.png";
+import LeftArrow from "/assets/left-arrow.png";
+import PedagioPhoto from "/assets/via-facil.png";
 import data from "../../data/about.json";
 import { useContext } from "react";
 import { TimelineContext } from "../../contexts/timelineContext";

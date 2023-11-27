@@ -1,9 +1,9 @@
 {
   "hero": {
-    "photo": "./src/assets/hero-photo.png",
+    "photo": "/assets/hero-photo.png",
     "title": "Erick Nascimento",
     "subtitle": "Front-End Developer",
-    "handIcon": "./src/assets/hand.png",
+    "handIcon": "/assets/hand.png",
     "phrases": [
       "Escrevo códigos",
       "Crio negócios",
@@ -14,7 +14,7 @@
   "skills": [
     {
       "altText": "Html5",
-      "icon": "../src/assets/languageLogos/htmlLogo.png",
+      "icon": "./assets/languageLogos/htmlLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#ef6525"
@@ -28,56 +28,56 @@
     },
     {
       "altText": "Javascript",
-      "icon": "./src/assets/languageLogos/javaScriptLogo.png",
+      "icon": "/assets/languageLogos/javaScriptLogo.png",
       "background": "#242424",
       "width": "80px",
       "border": "#ffd83a"
     },
     {
       "altText": "Scss",
-      "icon": "./src/assets/languageLogos/sassLogo.png",
+      "icon": "/assets/languageLogos/sassLogo.png",
       "background": "#242424",
       "width": "50px",
       "border": "#cd6799"
     },
     {
       "altText": "React",
-      "icon": "./src/assets/languageLogos/reactLogo.png",
+      "icon": "/assets/languageLogos/reactLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#61dbfb"
     },
     {
       "altText": "React Native",
-      "icon": "./src/assets/languageLogos/reactNativeLogo.png",
+      "icon": "/assets/languageLogos/reactNativeLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#61dbfb"
     },
     {
       "altText": "Styled Components",
-      "icon": "./src/assets/languageLogos/styledComponentsLogo.png",
+      "icon": "/assets/languageLogos/styledComponentsLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#d977b3"
     },
     {
       "altText": "Tailwind",
-      "icon": "./src/assets/languageLogos/tailWindLogo.png",
+      "icon": "/assets/languageLogos/tailWindLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#35bef8"
     },
     {
       "altText": "Github",
-      "icon": "./src/assets/languageLogos/githubLogo.png",
+      "icon": "/assets/languageLogos/githubLogo.png",
       "background": "#242424",
       "width": "40px",
       "border": "#5c6bc0"
     },
     {
       "altText": "Figma",
-      "icon": "./src/assets/languageLogos/figmaLogo.png",
+      "icon": "/assets/languageLogos/figmaLogo.png",
       "background": "#242424",
       "width": "25px",
       "border": "#02d084"
@@ -85,31 +85,31 @@
   ],
   "LastVideosSection": [
     {
-      "image": "./src/assets/Thumbnail_lowdefy.png",
+      "image": "/assets/Thumbnail_lowdefy.png",
       "title": "Começando com o Lowdefy",
       "description": "Neste vídeo abordamos o que é o Lowdefy, low-code e no-code",
       "link": "https://www.youtube.com/watch?v=D1xN20g2JG4"
     },
     {
-      "image": "./src/assets/Thumbnail_lowdefy.png",
+      "image": "/assets/Thumbnail_lowdefy.png",
       "title": "A Estrutura do lowdefy.yml",
       "description": "Neste vídeo iniciamos um projeto com o Lowdefy e entendemos o arquivo lowdefy.yml",
       "link": "https://www.youtube.com/watch?v=6TkjAE8w-rw&t=10s"
     },
     {
-      "image": "./src/assets/Thumbnail_html.png",
+      "image": "/assets/Thumbnail_html.png",
       "title": "Introdução ao HTML",
       "description": "Este é o primeiro vídeo de um curso completo de HTMl onde abordamos o que é o HTML",
       "link": "https://www.youtube.com/watch?v=ITkGMPaQk8Y"
     },
     {
-      "image": "./src/assets/Thumbnail_html.png",
+      "image": "/assets/Thumbnail_html.png",
       "title": "O que são tags?",
       "description": "Este é o segundo vídeo do nosso curso completo de HTML e falamos sobre as tags",
       "link": "https://www.youtube.com/watch?v=3ovBmOJmAlU"
     },
     {
-      "image": "./src/assets/Thumbnail_html.png",
+      "image": "/assets/Thumbnail_html.png",
       "title": "Atributos e Elementos",
       "description": "Este é o terceiro vídeo do nosso curso completo de HTML e falamos sobre Atributos e Elementos",
       "link": "https://www.youtube.com/watch?v=2IxumyyMY7A&t=24s"

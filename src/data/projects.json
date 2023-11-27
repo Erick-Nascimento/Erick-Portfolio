@@ -2,21 +2,21 @@
   "projects": {
     "title": "Meus Projetos",
     "description": "Aqui gostaria de te mostrar alguns dos meus projetos pessoais. Sou uma pessoa com muitas ideias e quando acho que algo possa resolver um problema ou pode ser visualmente legal, eu desenvolvo.",
-    "image": "./src/assets/clipboard.png",
+    "image": "/assets/clipboard.png",
     "projects": [
       {
         "projectName": "Fantasy Game",
         "description": "Neste projeto desenvolvi um aplicativo de apostas de futebol. Foi ótimo poder utilizar os conceitos do React na prática e aprender sobre os hooks de uma forma mais profunda. Pretendo em breve refazer este app usando React Native.",
         "backgroundColor": "#45c04a",
-        "image": "./src/assets/fantasy.png",
+        "image": "/assets/fantasy.png",
         "technologies": [
           {
             "technologyName": "React",
-            "icon": "./src/assets/languageLogos/reactLogo.png"
+            "icon": "/assets/languageLogos/reactLogo.png"
           },
           {
             "technologyName": "Styled Components",
-            "icon": "./src/assets/languageLogos/styledComponentsLogo.png"
+            "icon": "/assets/languageLogos/styledComponentsLogo.png"
           }
         ],
         "links": {
@@ -29,15 +29,15 @@
         "projectName": "Financial Calendar",
         "description": "Este projeto consiste em uma plataforma para me ajudar na organização financeira.",
         "backgroundColor": "#6d4fe4",
-        "image": "./src/assets/financial.png",
+        "image": "/assets/financial.png",
         "technologies": [
           {
             "technologyName": "React",
-            "icon": "./src/assets/languageLogos/reactLogo.png"
+            "icon": "/assets/languageLogos/reactLogo.png"
           },
           {
             "technologyName": "Styled Components",
-            "icon": "./src/assets/languageLogos/reactLogo.png"
+            "icon": "/assets/languageLogos/reactLogo.png"
           }
         ],
         "links": {
@@ -50,7 +50,7 @@
         "projectName": "MovieList",
         "description": "Desenvolvi este projeto em um treinamento interno da Simbiose. A ideia foi ampliar os conhecimentos em requisições de API utilizando o AXIOS.",
         "backgroundColor": "#CA6868",
-        "image": "/src/assets/movielist.png",
+        "image": "/assets/movielist.png",
         "technologies": [
           {
             "technologyName": "React",
@@ -58,7 +58,7 @@
           },
           {
             "technologyName": "Styled Components",
-            "icon": "./src/assets/languageLogos/reactLogo.png"
+            "icon": "/assets/languageLogos/reactLogo.png"
           }
         ],
         "links": {

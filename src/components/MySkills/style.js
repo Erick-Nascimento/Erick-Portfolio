@@ -1,5 +1,5 @@
 import { styled } from "styled-components";
-import bgSkills from "../../assets/skills-bg.png";
+import bgSkills from "/assets/skills-bg.png";
 
 export const MySkillsStyle = styled.div`
   padding: 4rem 20%;

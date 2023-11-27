@@ -1,5 +1,5 @@
 import { FooterContainer } from "./style";
-import Arrow from "../../assets/arrow.png";
+import Arrow from "/assets/arrow.png";
 import Nav from "../Header/Nav/nav";
 
 function Footer() {

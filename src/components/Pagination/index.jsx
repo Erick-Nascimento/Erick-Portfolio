@@ -1,6 +1,6 @@
 import { PaginationStyle } from "./style";
-import LeftArrow from "../../assets/left-arrow.png";
-import RightArrow from "../../assets/right-arrow.png";
+import LeftArrow from "/assets/left-arrow.png";
+import RightArrow from "/assets/right-arrow.png";
 import PaginationItem from "./PaginationItem";
 
 function Pagination() {

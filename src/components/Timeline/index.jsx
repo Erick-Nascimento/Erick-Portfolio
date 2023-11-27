@@ -1,7 +1,7 @@
 import TimelineItem from "./Item";
 import { TimelineContainer } from "./style";
-import Pedagio from "../../assets/pedagio.png";
-import Headphones from "../../assets/headphones.png";
+import Pedagio from "/assets/pedagio.png";
+import Headphones from "/assets/headphones.png";
 import { useContext } from "react";
 import data from "../../data/about.json";
 

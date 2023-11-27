@@ -1,6 +1,6 @@
 {
   "header": {
-    "logo": "./src/assets/logo.png",
+    "logo": "/assets/logo.png",
     "navLinks": [
       {
         "name": "home",
@@ -24,15 +24,15 @@
       }
     ],
     "toogleMode": {
-      "icon": "./src/assets/moon.png"
+      "icon": "/assets/moon.png"
     },
     "socialMedias": [
       {
-        "logo": "./src/assets/linkedin.png",
+        "logo": "/assets/linkedin.png",
         "link": "https://www.linkedin.com/in/ericksnascimento/"
       },
       {
-        "logo": "./src/assets/github.png",
+        "logo": "/assets/github.png",
         "link": "https://github.com/Erick-Nascimento"
       }
     ]

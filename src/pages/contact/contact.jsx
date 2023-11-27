@@ -1,5 +1,5 @@
 import GenericHero from "../../components/GenericHero";
-import Communicate from "../../assets/communicate.png";
+import Communicate from "/assets/communicate.png";
 import FormContainer from "../../components/FormContainer";
 
 function Contact() {

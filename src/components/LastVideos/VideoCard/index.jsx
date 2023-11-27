@@ -1,6 +1,6 @@
 import { Card } from "./style";
 
-import ExternalLink from "../../../assets/external-link.png";
+import ExternalLink from "/assets/external-link.png";
 
 function VideoCard({ image, title, description, link }) {
   return (

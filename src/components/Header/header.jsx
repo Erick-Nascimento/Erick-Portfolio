@@ -1,11 +1,11 @@
 import { HeaderContainer } from "./style";
-import Logo from "../../assets/logo.png";
-import MoonIcon from "../../assets/moon-icon.png";
-import LinkedinIcon from "../../assets/linkedin-icon.png";
+import Logo from "/assets/logo.png";
+import MoonIcon from "/assets/moon-icon.png";
+import LinkedinIcon from "/assets/linkedin-icon.png";
 import { Link } from "react-router-dom";
-import GithubIcon from "../../assets/github-icon.png";
+import GithubIcon from "/assets/github-icon.png";
 import Nav from "./Nav/nav";
-import MenuHamburguerIcon from "../../assets/menu-hamburguer-icon.png";
+import MenuHamburguerIcon from "/assets/menu-hamburguer-icon.png";
 import DropdownMenu from "../DropdownMenu";
 import { useState, useEffect } from "react";
 

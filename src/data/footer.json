@@ -1,4 +1,4 @@
 {
   "copyright": "© Desenvolvido por Erick Nascimento",
-  "backToTopIcon": "./src/assets/backToTop.png"
+  "backToTopIcon": "/assets/backToTop.png"
 }
