@@ -50,11 +50,11 @@
         "projectName": "MovieList",
         "description": "Desenvolvi este projeto em um treinamento interno da Simbiose. A ideia foi ampliar os conhecimentos em requisições de API utilizando o AXIOS.",
         "backgroundColor": "#CA6868",
-        "image": "./src/assets/movielist.png",
+        "image": "/src/assets/movielist.png",
         "technologies": [
           {
             "technologyName": "React",
-            "icon": "./src/assets/languageLogos/reactLogo.png"
+            "icon": "/assets/languageLogos/reactLogo.png"
           },
           {
             "technologyName": "Styled Components",
