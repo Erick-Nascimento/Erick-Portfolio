@@ -1,6 +1,14 @@
 import { StyledImage } from "./style";
 
-function SkillCard({ image, altText, background, width, height, border }) {
+function SkillCard({
+  image,
+  altText,
+  title,
+  background,
+  width,
+  height,
+  border,
+}) {
   return (
     <StyledImage
       background={background}
@@ -8,7 +16,7 @@ function SkillCard({ image, altText, background, width, height, border }) {
       height={height}
       border={border}
     >
-      <img src={image} alt={altText} />
+      <img src={image} alt={altText} title={title} />
     </StyledImage>
   );
 }

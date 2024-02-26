@@ -12,6 +12,7 @@ function Skills() {
             key={index}
             image={item.icon}
             altText={item.altText}
+            title={item.title}
             background={item.background}
             width={item.width}
             height={item.height}

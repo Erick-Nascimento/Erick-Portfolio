@@ -14,6 +14,7 @@
   "skills": [
     {
       "altText": "Html5",
+      "title": "HTML",
       "icon": "/assets/languageLogos/htmlLogo.png",
       "background": "#242424",
       "width": "40px",
@@ -21,6 +22,7 @@
     },
     {
       "altText": "CSS",
+      "title": "CSS",
       "icon": "/assets/languageLogos/cssLogo.png",
       "background": "#242424",
       "width": "45px",
@@ -28,6 +30,7 @@
     },
     {
       "altText": "Javascript",
+      "title": "Javascript",
       "icon": "/assets/languageLogos/javaScriptLogo.png",
       "background": "#242424",
       "width": "80px",
@@ -35,6 +38,7 @@
     },
     {
       "altText": "Scss",
+      "title": "SCSS",
       "icon": "/assets/languageLogos/sassLogo.png",
       "background": "#242424",
       "width": "50px",
@@ -42,6 +46,7 @@
     },
     {
       "altText": "React",
+      "title": "React",
       "icon": "/assets/languageLogos/reactLogo.png",
       "background": "#242424",
       "width": "40px",
@@ -49,6 +54,7 @@
     },
     {
       "altText": "React Native",
+      "title": "React Native",
       "icon": "/assets/languageLogos/reactNativeLogo.png",
       "background": "#242424",
       "width": "40px",
@@ -56,6 +62,7 @@
     },
     {
       "altText": "Styled Components",
+      "title": "Styled Components",
       "icon": "/assets/languageLogos/styledComponentsLogo.png",
       "background": "#242424",
       "width": "40px",
@@ -63,6 +70,7 @@
     },
     {
       "altText": "Tailwind",
+      "title": "Tailwind",
       "icon": "/assets/languageLogos/tailwindLogo.png",
       "background": "#242424",
       "width": "40px",
@@ -70,6 +78,7 @@
     },
     {
       "altText": "Github",
+      "title": "Github",
       "icon": "/assets/languageLogos/githubLogo.png",
       "background": "#242424",
       "width": "40px",
@@ -77,6 +86,7 @@
     },
     {
       "altText": "Figma",
+      "title": "Figma",
       "icon": "/assets/languageLogos/figmaLogo.png",
       "background": "#242424",
       "width": "25px",
